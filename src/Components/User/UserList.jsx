@@ -4,7 +4,7 @@ import UserInfo from "./UserInfo";
 const UserList = () => {
   return (
     <div>
-      <h1>Hola desde UserList</h1>
+      <h2>Hola desde UserList</h2>
       <UserInfo />
     </div>
   );

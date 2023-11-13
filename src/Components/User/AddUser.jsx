@@ -1,7 +1,7 @@
 import React from "react";
 
 const AddUser = () => {
-  return <h1>Hola desde AddUser</h1>;
+  return <h2>Hola desde AddUser</h2>;
 };
 
 export default AddUser;

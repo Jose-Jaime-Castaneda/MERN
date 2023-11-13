@@ -1,7 +1,7 @@
 import React from "react";
 
 const EditUser = () => {
-  return <h1>Hola desde EditUser</h1>;
+  return <h2>Hola desde EditUser</h2>;
 };
 
 export default EditUser;
