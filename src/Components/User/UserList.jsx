@@ -1,7 +1,13 @@
 import React from "react";
+import UserInfo from "./UserInfo";
 
 const UserList = () => {
-  return <h1>Hola desde UserList</h1>;
+  return (
+    <div>
+      <h1>Hola desde UserList</h1>
+      <UserInfo />
+    </div>
+  );
 };
 
 export default UserList;
